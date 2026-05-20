@@ -1,0 +1,8 @@
+# Production dependencies
+requests==2.31.0
+
+# Optional: python-dotenv for automatic .env loading
+# pip install python-dotenv
+
+# For development/testing, install dev dependencies:
+# pip install -r requirements-dev.txt
